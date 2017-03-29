@@ -2,3 +2,5 @@ DevOps
 ------------------
 
 DevOps should ideally make life easy.
+
+DevOps is a methodology.
