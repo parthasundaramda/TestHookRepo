@@ -6,3 +6,5 @@ DevOps should ideally make life easy.
 DevOps is a methodology.
 
 DevOps is integration between Dev and Ops
+
+Agile is a process but DevOps is a methodology.
