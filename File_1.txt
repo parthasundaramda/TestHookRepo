@@ -7,4 +7,4 @@ DevOps is a methodology.
 
 DevOps is integration between Dev and Ops
 
-Agile is a process but DevOps is a methodology.
+Agile is a process but DevOps is a methodology and DevOps is a process.
