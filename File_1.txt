@@ -1,0 +1,4 @@
+DevOps
+------------------
+
+DevOps should ideally make life easy.
