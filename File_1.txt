@@ -7,4 +7,6 @@ DevOps is a methodology.
 
 DevOps is integration between Dev and Ops
 
-Agile is a process but DevOps is a methodology and DevOps is a process.
+Agile is a process but DevOps is a methodology and DevOps is a process
+
+Jenkins is a CI tool.
